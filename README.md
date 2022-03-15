@@ -1,6 +1,6 @@
-- Console.WriteLine("Hello, I'm Liam.");
-- Debug.Log("I'm interested in Game Desighing, AI and Quantum mechanics.");
-- MessageBox.Show("Reach me through liam.zhe.li@outlook.com!");
+- Console.WriteLine("Hello, I'm Zhe.");
+- Debug.Log("I'm interested in Game Designing and AI.");
+- MessageBox.Show("Reach me through akira.zhe.li@gmail.com!");
 
 <!---
 BSLK11/BSLK11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
