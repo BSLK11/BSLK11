@@ -1,5 +1,6 @@
 - Console.WriteLine("Hello, I'm Zhe.");
-- Debug.Log("I'm interested in Game Designing and AI.");
+- Debug.Log("I'm a Student of TUM.");
+- System.out.println("Studying ComputerScience and Electric Engineering.");
 - MessageBox.Show("Reach me through akira.zhe.li@gmail.com!");
 
 <!---
